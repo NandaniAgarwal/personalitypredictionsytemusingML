@@ -8,3 +8,4 @@ Agreeableness: People high in agreeableness are warm, compassionate, and coopera
 Neuroticism: Neuroticism, or emotional instability, reflects a tendency towards experiencing negative emotions such as anxiety and moodiness. Individuals high in neuroticism may often feel tense or exhibit mood swings.
 code.ipnyb is the main code of the project 
 There are 5 more ipnyb file of different Machine Learning algorithms. In those code we have analysed the accuracy, precision, recall and f1 score of each algorithms. 
+page 1,2 and 3 are the screenshots of our project
